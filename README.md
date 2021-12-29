@@ -1,0 +1,2 @@
+# TensileSrength_VS_hardness_DieCastAluminium
+This regression model subtly explain how much the variability in tensile strength of the die cast alumnium can be explained with the help of its hardness.It gives an overall regression model as well as a training,tetsing regression models. It uses various python libraries and methds like -sklearn,statsmodel.api,train_test_split,sklearn.metrics,pandas,numpy,scipy,linear_model,OLS,regression.
